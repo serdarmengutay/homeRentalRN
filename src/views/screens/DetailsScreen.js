@@ -1,5 +1,5 @@
 import React from 'react'
-import { SafeAreaView,View, Text } from 'react-native'
+import { SafeAreaView,View, Text, StyleSheet } from 'react-native'
 
 const DetailsScreen = () => {
   return (
@@ -8,5 +8,9 @@ const DetailsScreen = () => {
     </SafeAreaView>
   )
 }
+
+const styles = StyleSheet.create({
+  
+})
 
 export default DetailsScreen

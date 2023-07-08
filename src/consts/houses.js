@@ -26,7 +26,7 @@ const houses = [
     {
       id: '3',
       title: 'Entire apartment',
-      location: '3Mins to Skytrain/Garden/Stadium/100% Toronto',
+      location: '3Mins to Skytrain/Garden Toronto',
       image: require('../assets/house3.jpg'),
       details: `This building is located in the Oliver area, withing walking distance of shops...`,
       interiors: [

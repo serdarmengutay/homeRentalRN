@@ -73,6 +73,7 @@ const styles = StyleSheet.create({
   textStyle: {
     fontSize: 16,
     color: COLORS.grey,
+    marginHorizontal: 20
   },
   btn: {
     height: 60,
